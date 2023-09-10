@@ -15,6 +15,7 @@ Save (to a .CSV) and quit
 
 
 You must give the following information for each member when created:
+
 Age, 
 Fights Won, 
 First and Last Name, 
