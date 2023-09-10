@@ -5,7 +5,7 @@ It has a simple console menu that allows you to create a list of members of a cl
 
 This program allows you to:
 
-Open a current list (if there is a CSV in same folder)
+Open a current list (if there is a CSV in same folder), 
 Add club members, 
 Display members, 
 Delete member, 
